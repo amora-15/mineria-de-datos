@@ -1,3 +1,6 @@
+#Link del video
+https://www.youtube.com/watch?v=60VzlVZXMxQ
+
 # Predicción de Abandono Estudiantil
 
 Este proyecto busca simular y predecir la *deserción estudiantil en el primer año académico* mediante técnicas de *Machine Learning*.  
